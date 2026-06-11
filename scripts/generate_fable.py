@@ -56,7 +56,7 @@ def call_claude(theme_desc: str) -> dict:
     key = os.environ["ANTHROPIC_API_KEY"]
     body = json.dumps({
         "model": MODEL,
-        "max_tokens": 600,
+        "max_tokens": 8000,
         "messages": [{"role": "user", "content": PROMPT.format(theme_desc=theme_desc)}],
     }).encode()
     req = urllib.request.Request(
@@ -73,7 +73,11 @@ def call_claude(theme_desc: str) -> dict:
     text = "".join(b.get("text", "") for b in data["content"]).strip()
     match = re.search(r"\{.*\}", text, flags=re.S)
     if not match:
-        raise ValueError(f"No JSON object found in model response: {text[:200]}")
+        raise ValueError(
+            f"No JSON object found in model response. "
+            f"stop_reason={data.get('stop_reason')!r}, "
+            f"block types={[b.get('type') for b in data['content']]}, "
+            f"text={text[:300]!r}")
     fable = json.loads(match.group(0))
     assert {"title", "fable", "moral"} <= set(fable)
     return fable
