@@ -71,8 +71,10 @@ def call_claude(theme_desc: str) -> dict:
     with urllib.request.urlopen(req, timeout=120) as resp:
         data = json.loads(resp.read())
     text = "".join(b.get("text", "") for b in data["content"]).strip()
-    text = re.sub(r"^```(?:json)?|```$", "", text, flags=re.M).strip()
-    fable = json.loads(text)
+    match = re.search(r"\{.*\}", text, flags=re.S)
+    if not match:
+        raise ValueError(f"No JSON object found in model response: {text[:200]}")
+    fable = json.loads(match.group(0))
     assert {"title", "fable", "moral"} <= set(fable)
     return fable
 
