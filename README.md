@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Broken Reel** — *Audiences forgive a broken reel sooner than a polished lie.* (11 Jun 2026)
+> **The Peacock and the Mynah** — *Films that flatter dazzle for a day; films that tell truth feed generations.* (11 Jun 2026)
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>

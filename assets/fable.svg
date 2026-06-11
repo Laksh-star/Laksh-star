@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 389" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Broken Reel">
+<svg viewBox="0 0 840 415" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Peacock and the Mynah">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,16 +15,17 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="389" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Broken Reel</text>
+  <rect width="840" height="415" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Peacock and the Mynah</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">In a river town, a filmmaker wrote scripts that flattered his audience:</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">heroes never doubted, endings never stung. Crowds clapped and forgot him</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">by dinner. One night the reel snapped, and the projectionist, half asleep,</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">threaded the filmmaker's discarded footage instead—an old woman counting</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">coins, a boy lying to his mother. The audience sat silent, then wept, then</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">returned for three nights asking for the broken film. The filmmaker burned</text>
-  <text style="animation-delay:1.88s" class="body ln" x="70" y="258">his polished scripts and kept the splices.</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="299">Moral: Audiences forgive a broken reel sooner than a polished lie.</text>
-  <text class="meta" x="70" y="361">a cinema &amp; storytelling fable · told fresh on 11 Jun 2026 by claude-fable-5</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">In a riverside village, a peacock directed films of his own splendor,</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">while a plain mynah filmed the fishermen mending nets. The peacock's</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">scripts glittered; crowds came once and forgot. The mynah's script held</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">only what she had seen: torn nets, patient hands. Years later, drought</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">came, and the villagers gathered to watch the mynah's film, learning again</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">how to mend and wait. The peacock asked her secret. 'I wrote nothing,' she</text>
+  <text style="animation-delay:1.88s" class="body ln" x="70" y="258">said. 'I only listened.'</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="299">Moral: Films that flatter dazzle for a day; films that tell truth</text>
+  <text style="animation-delay:2.24s" class="moral ln" x="70" y="325">feed generations.</text>
+  <text class="meta" x="70" y="387">a cinema &amp; storytelling fable · told fresh on 11 Jun 2026 by claude-fable-5</text>
 </svg>
