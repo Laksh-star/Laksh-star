@@ -1,0 +1,28 @@
+name: The Daily Fable
+
+on:
+  schedule:
+    - cron: "30 1 * * *"   # 07:00 IST daily
+  workflow_dispatch: {}     # run it manually from the Actions tab anytime
+
+permissions:
+  contents: write
+
+jobs:
+  tell-a-fable:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ask claude-fable-5 for today's fable
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_fable.py
+
+      - name: Commit the new fable
+        run: |
+          git config user.name "the-daily-fable[bot]"
+          git config user.email "actions@github.com"
+          git add assets/fable.svg fables/ README.md
+          git diff --cached --quiet || git commit -m "🦉 today's fable, told by claude-fable-5"
+          git push
