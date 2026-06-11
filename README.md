@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Compiler and the Poet** — *Judgment is forgotten; what it permits to exist is remembered.* (10 Jun 2026)
+> **The Broken Reel** — *Audiences forgive a broken reel sooner than a polished lie.* (11 Jun 2026)
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
