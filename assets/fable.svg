@@ -1,0 +1,30 @@
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Compiler and the Poet">
+  <defs>
+    <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1d1f33"/>
+      <stop offset="100%" stop-color="#15172a"/>
+    </linearGradient>
+    <style>
+      .head { font: 700 26px Georgia, serif; fill: #ffd166; }
+      .meta { font: 13px 'Courier New', monospace; fill: #8b93b8; }
+      .body { font: 17px Georgia, serif; fill: #dde2f1; }
+      .moral { font: italic 17px Georgia, serif; fill: #f4a261; }
+      .ln { opacity: 0; animation: rise 0.9s ease forwards; }
+      @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+      .rule { stroke: #ffd166; stroke-width: 1; opacity: 0.5; stroke-dasharray: 700; stroke-dashoffset: 700; animation: draw 2.5s ease 0.4s forwards; }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+    </style>
+  </defs>
+  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Compiler and the Poet</text>
+  <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A compiler boasted that it rejected every flawed line ever shown to it. A</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">poet sat nearby, crossing out her own verses. "You and I do the same</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">work," she said. The compiler scoffed: "I enforce rules. You merely feel."</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">That night the poet wrote a program, and the compiler, finding no errors,</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">passed it in silence — and no one remembered the compiler, but everyone</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">quoted the poem it had approved.</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Judgment is forgotten; what it permits to exist is</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">remembered.</text>
+  <text class="meta" x="70" y="360">a leadership &amp; management fable · told fresh on 10 Jun 2026 by claude-fable-5</text>
+</svg>

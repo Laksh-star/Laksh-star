@@ -1,0 +1,94 @@
+<svg viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Laksh-star — where stories meet systems">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1026"/>
+      <stop offset="60%" stop-color="#16213e"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffd166" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffd166" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffd166"/>
+      <stop offset="50%" stop-color="#fff3d6"/>
+      <stop offset="100%" stop-color="#f4a261"/>
+    </linearGradient>
+    <style>
+      .star { fill: #e9ecf5; }
+      .tw1 { animation: twinkle 3s ease-in-out infinite; }
+      .tw2 { animation: twinkle 4s ease-in-out 1s infinite; }
+      .tw3 { animation: twinkle 5s ease-in-out 2s infinite; }
+      @keyframes twinkle { 0%,100% { opacity: 0.25; } 50% { opacity: 1; } }
+      .constellation { stroke: #ffd166; stroke-width: 1.2; fill: none; opacity: 0.65;
+        stroke-dasharray: 600; stroke-dashoffset: 600;
+        animation: draw 6s ease forwards; }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      .title { font: 700 44px Georgia, 'Times New Roman', serif; fill: url(#titleGrad); }
+      .tagline { font: italic 17px Georgia, serif; fill: #c9d1e9; }
+      .byline { font: 13px 'Courier New', monospace; fill: #8b93b8; }
+      .fadein { opacity: 0; animation: fadein 2s ease 1s forwards; }
+      .fadein2 { opacity: 0; animation: fadein 2s ease 2.2s forwards; }
+      @keyframes fadein { to { opacity: 1; } }
+      .shoot { animation: shoot 7s linear 3s infinite; }
+      @keyframes shoot {
+        0% { transform: translate(0,0); opacity: 0; }
+        4% { opacity: 1; }
+        12% { transform: translate(-260px,90px); opacity: 0; }
+        100% { transform: translate(-260px,90px); opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="900" height="280" rx="14" fill="url(#sky)"/>
+
+  <!-- scattered twinkling stars -->
+  <g>
+    <circle class="star tw1" cx="60" cy="40" r="1.6"/>
+    <circle class="star tw2" cx="130" cy="90" r="1.2"/>
+    <circle class="star tw3" cx="200" cy="35" r="1.8"/>
+    <circle class="star tw1" cx="300" cy="70" r="1.1"/>
+    <circle class="star tw2" cx="420" cy="30" r="1.5"/>
+    <circle class="star tw3" cx="520" cy="60" r="1.2"/>
+    <circle class="star tw1" cx="80" cy="200" r="1.3"/>
+    <circle class="star tw2" cx="180" cy="240" r="1.6"/>
+    <circle class="star tw3" cx="350" cy="220" r="1.1"/>
+    <circle class="star tw1" cx="560" cy="245" r="1.4"/>
+    <circle class="star tw2" cx="840" cy="50" r="1.5"/>
+    <circle class="star tw3" cx="800" cy="230" r="1.3"/>
+    <circle class="star tw1" cx="640" cy="35" r="1.2"/>
+    <circle class="star tw2" cx="40" cy="130" r="1.0"/>
+    <circle class="star tw3" cx="870" cy="150" r="1.1"/>
+  </g>
+
+  <!-- shooting star -->
+  <g class="shoot">
+    <line x1="820" y1="30" x2="858" y2="17" stroke="#fff3d6" stroke-width="1.5" opacity="0.8"/>
+    <circle cx="820" cy="30" r="2" fill="#fff3d6"/>
+  </g>
+
+  <!-- the Laksh-star constellation (a stylised star-and-quill) -->
+  <g transform="translate(640,60)">
+    <path class="constellation" d="M80,10 L120,70 L185,78 L135,122 L150,185 L80,150 L10,185 L25,122 L-25,78 L40,70 Z"/>
+    <circle class="star tw1" cx="80" cy="10" r="3"/>
+    <circle class="star tw2" cx="120" cy="70" r="2.5"/>
+    <circle class="star tw3" cx="185" cy="78" r="3"/>
+    <circle class="star tw1" cx="135" cy="122" r="2.5"/>
+    <circle class="star tw2" cx="150" cy="185" r="3"/>
+    <circle class="star tw3" cx="80" cy="150" r="2.5"/>
+    <circle class="star tw1" cx="10" cy="185" r="3"/>
+    <circle class="star tw2" cx="25" cy="122" r="2.5"/>
+    <circle class="star tw3" cx="-25" cy="78" r="3"/>
+    <circle class="star tw1" cx="40" cy="70" r="2.5"/>
+    <circle cx="80" cy="100" r="40" fill="url(#glow)">
+      <animate attributeName="r" values="34;44;34" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- titles -->
+  <g>
+    <text class="title fadein" x="56" y="128">Laksh ✦ star</text>
+    <text class="tagline fadein2" x="58" y="166">where stories meet systems — cinema · strategy · AI</text>
+    <text class="byline fadein2" x="58" y="226">~ a living README, narrated daily by claude-fable-5 ~</text>
+  </g>
+</svg>
