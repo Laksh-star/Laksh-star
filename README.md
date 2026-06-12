@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock and the Mynah** — *Films that flatter dazzle for a day; films that tell truth feed generations.* (11 Jun 2026)
+> **The Peacock Who Counted Watchers** — *Applause is borrowed light; dance for the rain that stays.* (12 Jun 2026)
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
