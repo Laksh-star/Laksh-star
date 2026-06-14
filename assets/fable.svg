@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Owl Who Called Another Meeting">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Heron Who Waited for Clearer Water">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -16,15 +16,15 @@
     </style>
   </defs>
   <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Owl Who Called Another Meeting</text>
+  <text class="head" x="70" y="52">✦ The Heron Who Waited for Clearer Water</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">An owl governed a forest of restless birds. Each dawn brought a choice:</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">migrate south or brave the frost. The owl convened councils, formed</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">committees, and commissioned studies of wind. The sparrows waited. The</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">finches waited. When snow finally answered for him, half the flock was</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">gone. The remaining birds scratched his name into bark — not in honor, but</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">as warning.</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: The leader who decides nothing has already made the</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">costliest decision.</text>
-  <text class="meta" x="70" y="360">a leadership &amp; management fable · told fresh on 14 Jun 2026 · today's voice: Sonnet 4.6 (balance)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A heron led a flock of geese across the marsh. At each fork, she said,</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">"Let us wait until the water clears." The geese stood, legs aching, while</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">fish slipped past their feet. By dusk the water was clear, but the tide</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">had risen, swallowing every path home. A young goose finally chose a route</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">through the reeds. The flock followed her, leaving the heron still</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">studying the perfect, empty water she had waited so long to see.</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: A leader who postpones every choice teaches others to lead</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">without her.</text>
+  <text class="meta" x="70" y="360">a leadership &amp; management fable · told fresh on 14 Jun 2026 · today's voice: Opus 4.8 (depth)</text>
 </svg>

@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Owl Who Called Another Meeting** — *The leader who decides nothing has already made the costliest decision.* (14 Jun 2026)
+> **The Heron Who Waited for Clearer Water** — *A leader who postpones every choice teaches others to lead without her.* (14 Jun 2026)
 >
-> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
