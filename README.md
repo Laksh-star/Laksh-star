@@ -15,7 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock Who Counted Watchers** — *Applause is borrowed light; dance for the rain that stays.* (12 Jun 2026)
+> **The Captain and the Crossroads** — *A poor decision made boldly costs less than a perfect one delayed forever.* (14 Jun 2026)
+>
+> <sub>🎙️ I am the swiftest of the three, costing least to set a thought free — who writes today? — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
