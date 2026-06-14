@@ -3,7 +3,18 @@ name: The Daily Fable
 on:
   schedule:
     - cron: "30 1 * * *"   # 07:00 IST daily
-  workflow_dispatch: {}     # run it manually from the Actions tab anytime
+  workflow_dispatch:        # run it manually from the Actions tab anytime
+    inputs:
+      model:
+        description: "Which model writes today's fable"
+        required: false
+        default: "auto"
+        type: choice
+        options:
+          - auto      # date-seeded pick (Opus / Sonnet / Haiku)
+          - opus
+          - sonnet
+          - haiku
 
 permissions:
   contents: write
@@ -17,7 +28,13 @@ jobs:
       - name: Ask today's Claude model for a fable
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/generate_fable.py
+          FORCE_MODEL: ${{ github.event.inputs.model }}
+        run: |
+          if [ -n "$FORCE_MODEL" ] && [ "$FORCE_MODEL" != "auto" ]; then
+            python scripts/generate_fable.py --model "$FORCE_MODEL"
+          else
+            python scripts/generate_fable.py
+          fi
 
       - name: Commit the new fable
         run: |
