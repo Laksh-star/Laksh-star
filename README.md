@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Captain Who Loved the Harbor** — *A perfect plan launched never beats an imperfect ship already sailing.* (14 Jun 2026)
+> **The Screenwriter and the Mirror** — *The truths films tell trouble us most when we see ourselves in them.* (15 Jun 2026)
 >
-> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>

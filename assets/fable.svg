@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Captain Who Loved the Harbor">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Screenwriter and the Mirror">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -16,15 +16,15 @@
     </style>
   </defs>
   <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Captain Who Loved the Harbor</text>
+  <text class="head" x="70" y="52">✦ The Screenwriter and the Mirror</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A captain kept her crew polishing the ship while rival vessels claimed</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">every port. 'We must be ready,' she said, adjusting sails that never</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">caught wind. Her sailors grew expert at waiting. One morning they woke to</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">find themselves anchored in a harbor the tide had quietly abandoned. The</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">ship gleamed perfectly. The sea had moved on. Her first mate finally asked</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">the question she had feared: 'Ready for what, exactly?'</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: A perfect plan launched never beats an imperfect ship</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">already sailing.</text>
-  <text class="meta" x="70" y="360">a leadership &amp; management fable · told fresh on 14 Jun 2026 · today's voice: Sonnet 4.6 (balance)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A screenwriter crafted a villain so cunning, audiences booed at every</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">showing. "They hate my creation," she despaired. An old projectionist</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">smiled. "They recognize themselves," he said, replaying the film. She</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">watched the audience lean forward, silent, studying the screen—not</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">rejecting the character, but finally seeing their own reflection. The</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">theater had become a mirror, not an escape.</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: The truths films tell trouble us most when we see ourselves</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">in them.</text>
+  <text class="meta" x="70" y="360">a cinema &amp; storytelling fable · told fresh on 15 Jun 2026 · today's voice: Haiku 4.5 (efficiency)</text>
 </svg>
