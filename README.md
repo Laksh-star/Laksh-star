@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Screenwriter and the Mirror** — *The truths films tell trouble us most when we see ourselves in them.* (15 Jun 2026)
+> **The Crow and the Charging Cable** — *Mock the experimenter, but remember who has the light.* (16 Jun 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
