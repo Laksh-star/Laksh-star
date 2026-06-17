@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Charging Cable** — *Mock the experimenter, but remember who has the light.* (16 Jun 2026)
+> **The Weaver and the Loom** — *Automation multiplies the work you guide, and also the work you forgot to teach.* (17 Jun 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
