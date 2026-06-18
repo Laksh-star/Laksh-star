@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom** — *Automation multiplies the work you guide, and also the work you forgot to teach.* (17 Jun 2026)
+> **The Heron Who Waited for Clearer Water** — *A choice delayed too long is quietly made by everyone else.* (18 Jun 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
