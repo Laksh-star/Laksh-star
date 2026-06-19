@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Heron Who Waited for Clearer Water** — *A choice delayed too long is quietly made by everyone else.* (18 Jun 2026)
+> **The Lantern and the Shadow** — *The audience sometimes sees what the artist was too close to notice.* (19 Jun 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
