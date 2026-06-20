@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Lantern and the Shadow** — *The audience sometimes sees what the artist was too close to notice.* (19 Jun 2026)
+> **The Crow and the Smartphone** — *What dazzles us most often blinds us to what matters.* (20 Jun 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ I am the swiftest of the three, costing least to set a thought free — who writes today? — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
