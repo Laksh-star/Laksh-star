@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Smartphone** — *What dazzles us most often blinds us to what matters.* (20 Jun 2026)
+> **The Weaver and the Loom** — *Tools that replace judgment eventually imprison their makers.* (21 Jun 2026)
 >
 > <sub>🎙️ I am the swiftest of the three, costing least to set a thought free — who writes today? — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
