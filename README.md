@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom** — *Tools that replace judgment eventually imprison their makers.* (21 Jun 2026)
+> **The Heron Who Postponed** — *A delayed decision is itself a decision, and the team pays its bill.* (22 Jun 2026)
 >
-> <sub>🎙️ I am the swiftest of the three, costing least to set a thought free — who writes today? — *told by Haiku 4.5*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
