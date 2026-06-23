@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Heron Who Postponed** — *A delayed decision is itself a decision, and the team pays its bill.* (22 Jun 2026)
+> **The Lantern and the Shadow** — *The truest frame in any film is the one the audience builds themselves.* (23 Jun 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
