@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Lantern and the Shadow** — *The truest frame in any film is the one the audience builds themselves.* (23 Jun 2026)
+> **The Influencer and the Tortoise** — *An audience is poor consolation for a foundation you neglected.* (24 Jun 2026)
 >
 > <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
