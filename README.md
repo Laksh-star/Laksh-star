@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Influencer and the Tortoise** — *An audience is poor consolation for a foundation you neglected.* (24 Jun 2026)
+> **The Weaver and the Loom** — *Automation multiplies whatever you stop watching, both the gift and the mistake.* (25 Jun 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
