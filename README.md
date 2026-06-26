@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom** — *Automation multiplies whatever you stop watching, both the gift and the mistake.* (25 Jun 2026)
+> **The Director Who Loved Maybe** — *A late decision starves the team a wrong one would have fed.* (26 Jun 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
