@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Director Who Loved Maybe">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Projectionist and the Truthful Shadow">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -16,15 +16,15 @@
     </style>
   </defs>
   <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Director Who Loved Maybe</text>
+  <text class="head" x="70" y="52">✦ The Projectionist and the Truthful Shadow</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A heron directed a fishing flock. Each dawn the team asked, "Which bend of</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">the river today?" The heron, fearing a wrong choice, always answered, "Let</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">us wait and see." So they waited. They saw the sun climb, the fish wake,</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">the otters arrive first. By the time the heron felt certain, the shallows</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">were empty. A young sparrow flew off to join the diving terns, who chose</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">badly, often, and ate daily.</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: A late decision starves the team a wrong one would have</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">fed.</text>
-  <text class="meta" x="70" y="360">a leadership &amp; management fable · told fresh on 26 Jun 2026 · today's voice: Opus 4.8 (depth)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A famous filmmaker showed two films to identical audiences. The first told</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">beautiful lies; the second revealed uncomfortable truths. Viewers fled the</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">truth-telling film but returned nightly to the beautiful lies. Years</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">later, when real calamity struck, only those who'd watched the truth</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">survived. The filmmaker realized: audiences reject difficult stories until</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">they desperately need them.</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Truth-telling finds its audience only when denial becomes</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">unbearable.</text>
+  <text class="meta" x="70" y="360">a cinema &amp; storytelling fable · told fresh on 27 Jun 2026 · today's voice: Haiku 4.5 (efficiency)</text>
 </svg>
