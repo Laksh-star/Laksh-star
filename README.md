@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Tireless Loom** — *Perfection fills warehouses; imperfection fills hearts.* (29 Jun 2026)
+> **The Captain and the Crossroads** — *A wrong choice commands respect; paralysis commands only contempt.* (30 Jun 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
