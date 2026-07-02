@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Painted Sky** — *Invented beauty crumbles; honest films only uncover the truth already present.* (01 Jul 2026)
+> **The Peacock and the Camera** — *Those obsessed with themselves make poor audiences for anyone else's pride.* (02 Jul 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
