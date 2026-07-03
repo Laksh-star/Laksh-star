@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock and the Camera** — *Those obsessed with themselves make poor audiences for anyone else's pride.* (02 Jul 2026)
+> **The Weaver and the Loom** — *Automation multiplies whatever it is given, including the mistakes no one is watching.* (03 Jul 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
