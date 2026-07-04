@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom** — *Automation multiplies whatever it is given, including the mistakes no one is watching.* (03 Jul 2026)
+> **The Heron Who Would Not Choose** — *A leader who refuses to decide teaches the team to abandon him.* (04 Jul 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
