@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock and the Sparrow** — *Beauty fades; usefulness endures across seasons.* (06 Jul 2026)
+> **The Weaver and the Loom** — *Tools reveal what we've forgotten; they don't erase what we know.* (07 Jul 2026)
 >
 > <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
