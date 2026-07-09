@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Captain and the Crossroads">
+<svg viewBox="0 0 840 415" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Mirror-Maker's Lie">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,16 +15,17 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Captain and the Crossroads</text>
+  <rect width="840" height="415" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Mirror-Maker's Lie</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A ship's captain refused to choose between two routes. His crew waited.</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">Days passed. One sailor pointed starboard, another port. The captain</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">called meetings instead of commands. A storm rose ahead. By the time the</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">captain finally decided, the ship had drifted into shallow rocks. They</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">sank slowly, watching clear water recede toward either route they'd</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">abandoned.</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Delayed decisions cost more than wrong ones made with</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">conviction.</text>
-  <text class="meta" x="70" y="360">a leadership &amp; management fable · told fresh on 08 Jul 2026 · today's voice: Haiku 4.5 (efficiency)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A Director polished a script until every character shone noble and wept on</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">cue. "Audiences want to feel good," she told the Old Projectionist. At the</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">premiere, the crowd clapped politely, then forgot the film by supper. The</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">next week she screened a rough, honest reel about her own cowardice.</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">Strangers wept, argued, and returned three nights running. "They didn't</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">want good," the Projectionist said. "They wanted true. You mistook the</text>
+  <text style="animation-delay:1.88s" class="body ln" x="70" y="258">flattering mirror for the clear one."</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="299">Moral: Audiences forgive an ugly truth sooner than a beautiful</text>
+  <text style="animation-delay:2.24s" class="moral ln" x="70" y="325">lie.</text>
+  <text class="meta" x="70" y="387">a cinema &amp; storytelling fable · told fresh on 09 Jul 2026 · today's voice: Opus 4.8 (depth)</text>
 </svg>
