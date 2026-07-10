@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Mirror-Maker's Lie** — *Audiences forgive an ugly truth sooner than a beautiful lie.* (09 Jul 2026)
+> **The Crow and the Charging Cable** — *Know the whole system before mocking those who do.* (10 Jul 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
