@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Heron and the Restless Pond** — *A leader who postpones every choice lets circumstance choose, and it chooses cruelly.* (12 Jul 2026)
+> **The Lantern and the Wall** — *What you intend to show and what audiences receive are both real.* (13 Jul 2026)
 >
-> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
