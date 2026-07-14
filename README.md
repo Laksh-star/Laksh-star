@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Lantern and the Wall** — *What you intend to show and what audiences receive are both real.* (13 Jul 2026)
+> **The Crow and the Uploaded Worm** — *The one who acts quietly inherits what the loud one only claims.* (14 Jul 2026)
 >
 > <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
