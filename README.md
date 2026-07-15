@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Uploaded Worm** — *The one who acts quietly inherits what the loud one only claims.* (14 Jul 2026)
+> **The Clever Loom and the Idle Weaver** — *Delegate the repetition, but never surrender the judgment that feeds it.* (15 Jul 2026)
 >
 > <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
