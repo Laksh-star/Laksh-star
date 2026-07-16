@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Clever Loom and the Idle Weaver** — *Delegate the repetition, but never surrender the judgment that feeds it.* (15 Jul 2026)
+> **The Owl Who Would Not Choose** — *A decision delayed is a decision made, and its cost is yours.* (16 Jul 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
