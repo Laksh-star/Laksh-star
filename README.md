@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Owl Who Would Not Choose** — *A decision delayed is a decision made, and its cost is yours.* (16 Jul 2026)
+> **The Projectionist and the Mirror** — *We see truth most clearly when it reveals our blindness, not our faults.* (17 Jul 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
