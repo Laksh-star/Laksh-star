@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Crow and the Influencer Peacock">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Mill That Learned to Grind">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -16,15 +16,15 @@
     </style>
   </defs>
   <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Crow and the Influencer Peacock</text>
+  <text class="head" x="70" y="52">✦ The Mill That Learned to Grind</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A peacock amassed ten thousand followers by fanning his tail at dawn, each</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">feather catching the light just so. 'Teach me,' begged the crow. The</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">peacock charged three gold coins for his masterclass. The crow paid,</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">practiced, and gained twelve thousand followers — posting only pictures of</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">peacocks. The peacock, furious, demanded royalties. 'You taught me</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">content,' said the crow. 'I taught myself distribution.'</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: The student who truly learns will eventually sell the</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">teacher's own lessons back.</text>
-  <text class="meta" x="70" y="360">a the Panchatantra tradition fable · told fresh on 18 Jul 2026 · today's voice: Sonnet 4.6 (balance)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A miller built an iron apprentice that ground flour faster than any hand.</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">The village marveled. Soon the miller slept late, then later still,</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">forgetting the feel of grain between his fingers. One winter the river</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">froze and the iron apprentice stopped, waiting for a command the miller no</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">longer knew how to give. A passing child, flour-dusted and curious,</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">restarted it.</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Delegate the grinding, never the knowledge of why grain</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">becomes bread.</text>
+  <text class="meta" x="70" y="360">a AI &amp; technology fable · told fresh on 19 Jul 2026 · today's voice: Sonnet 4.6 (balance)</text>
 </svg>

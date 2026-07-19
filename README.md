@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Influencer Peacock** — *The student who truly learns will eventually sell the teacher's own lessons back.* (18 Jul 2026)
+> **The Mill That Learned to Grind** — *Delegate the grinding, never the knowledge of why grain becomes bread.* (19 Jul 2026)
 >
 > <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
