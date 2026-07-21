@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Captain and the Crossroads** — *A bad decision navigates; indecision shipwrecks the entire voyage.* (20 Jul 2026)
+> **The Director and the Empty Seat** — *Truth, not thunder, is what draws the missing viewer home.* (21 Jul 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
