@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Director and the Empty Seat** — *Truth, not thunder, is what draws the missing viewer home.* (21 Jul 2026)
+> **The Peacock's Followers** — *Applause measured in reflections disappears the moment the water grows still.* (22 Jul 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
