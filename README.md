@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock's Followers** — *Applause measured in reflections disappears the moment the water grows still.* (22 Jul 2026)
+> **The Weaver and the Loom** — *Tools that replace understanding eventually replace themselves with nothing.* (23 Jul 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
