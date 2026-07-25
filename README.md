@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Owl Who Called More Meetings** — *A imperfect decision made feeds the flock; a perfect one deferred starves it.* (24 Jul 2026)
+> **The Director and the Empty Seat** — *Audiences forgive dull truths sooner than they forgive dazzling lies.* (25 Jul 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
