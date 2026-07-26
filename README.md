@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Director and the Empty Seat** — *Audiences forgive dull truths sooner than they forgive dazzling lies.* (25 Jul 2026)
+> **The Peacock's Followers** — *Those who gather to admire you rarely stay to carry your water.* (26 Jul 2026)
 >
 > <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
