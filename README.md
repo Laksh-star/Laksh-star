@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock's Followers** — *Those who gather to admire you rarely stay to carry your water.* (26 Jul 2026)
+> **The Weaver and the Loom That Learned** — *The tool that outpaces you still cannot replace what it never held.* (27 Jul 2026)
 >
-> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
