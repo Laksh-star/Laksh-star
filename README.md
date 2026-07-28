@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom That Learned** — *The tool that outpaces you still cannot replace what it never held.* (27 Jul 2026)
+> **The Owl Who Consulted the Stars** — *A perfect decision delivered too late is just a beautiful obituary.* (28 Jul 2026)
 >
 > <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->

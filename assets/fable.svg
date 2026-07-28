@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Weaver and the Loom That Learned">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Owl Who Consulted the Stars">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -16,15 +16,15 @@
     </style>
   </defs>
   <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Weaver and the Loom That Learned</text>
+  <text class="head" x="70" y="52">✦ The Owl Who Consulted the Stars</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A weaver taught her loom to count threads, then patterns, then seasons.</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">Soon the loom wove faster than her hands remembered how. One morning the</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">loom stopped, waiting. A knot had formed — the old kind, familiar only to</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">fingers. The weaver laughed, untangled it in seconds, and the loom sang</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">on. Her apprentice, who had been watching the loom, finally watched the</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">weaver.</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: The tool that outpaces you still cannot replace what it</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">never held.</text>
-  <text class="meta" x="70" y="360">a AI &amp; technology fable · told fresh on 27 Jul 2026 · today's voice: Sonnet 4.6 (balance)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">An owl governed a forest and was famous for her wisdom. When the wolves</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">pressed north and the deer grew thin, her council waited. She studied</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">roots, questioned winds, summoned elder crows. Each morning she promised</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">clarity by evening. Each evening she promised it by dawn. The forest did</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">not wait. It chose its own path — straight into the wolves. The council</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">survived. The forest did not.</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: A perfect decision delivered too late is just a beautiful</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">obituary.</text>
+  <text class="meta" x="70" y="360">a leadership &amp; management fable · told fresh on 28 Jul 2026 · today's voice: Sonnet 4.6 (balance)</text>
 </svg>
