@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Owl Who Consulted the Stars** — *A perfect decision delivered too late is just a beautiful obituary.* (28 Jul 2026)
+> **The Mirror-Maker and the Crowd** — *A film shines brightest when it dares to reflect the flaws we hide.* (29 Jul 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
