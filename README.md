@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock and the Charging Cable** — *What earns applause rarely earns dinner; quiet usefulness outlasts loud display.* (30 Jul 2026)
+> **The Weaver and Her Tireless Loom** — *The most powerful instruction you can give any agent is pause.* (31 Jul 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>

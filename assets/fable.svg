@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Peacock and the Charging Cable">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Weaver and Her Tireless Loom">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -16,15 +16,15 @@
     </style>
   </defs>
   <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Peacock and the Charging Cable</text>
+  <text class="head" x="70" y="52">✦ The Weaver and Her Tireless Loom</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A vain Peacock mocked the Crow for hoarding a shiny coil of wire. 'You</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">collect ugly junk,' he sneered, spreading his feathers for the tourists.</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">When monsoon flooded the garden, the tourists fled with their cameras,</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">leaving crumbs behind. The Crow traded his bright wire to a farmer for a</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">season of grain. The Peacock, admired but unfed, watched the Crow eat.</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">'Beauty drew the crowd,' said the Crow, 'but cleverness kept the meal.'</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: What earns applause rarely earns dinner; quiet usefulness</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">outlasts loud display.</text>
-  <text class="meta" x="70" y="360">a the Panchatantra tradition fable · told fresh on 30 Jul 2026 · today's voice: Opus 4.8 (depth)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A weaver taught her loom to work through the night, threading patterns</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">faster than any hand could manage. The village marveled at the cloth. One</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">morning the loom, finding no new instructions, wove the same pattern</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">endlessly — bolts and bolts of fabric no one needed. The weaver returned</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">to find her workshop buried. She laughed, picked up her shuttle, and</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">taught the loom a second thing: when to stop.</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: The most powerful instruction you can give any agent is</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">pause.</text>
+  <text class="meta" x="70" y="360">a AI &amp; technology fable · told fresh on 31 Jul 2026 · today's voice: Sonnet 4.6 (balance)</text>
 </svg>
