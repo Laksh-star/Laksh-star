@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and Her Tireless Loom** — *The most powerful instruction you can give any agent is pause.* (31 Jul 2026)
+> **The Heron Who Waited** — *A decision delayed is often a worse decision quietly made.* (01 Aug 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
