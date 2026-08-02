@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Heron Who Waited** — *A decision delayed is often a worse decision quietly made.* (01 Aug 2026)
+> **The Lantern and the Shadow** — *The truest films reveal the audience to themselves.* (02 Aug 2026)
 >
-> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
+> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
