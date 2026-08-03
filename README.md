@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Lantern and the Shadow** — *The truest films reveal the audience to themselves.* (02 Aug 2026)
+> **The Peacock's Reviews** — *The louder you announce your treasures, the sooner thieves learn the way home.* (03 Aug 2026)
 >
-> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>

@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 362" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Lantern and the Shadow">
+<svg viewBox="0 0 840 415" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Peacock's Reviews">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,15 +15,17 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="362" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Lantern and the Shadow</text>
+  <rect width="840" height="415" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Peacock's Reviews</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A filmmaker carried a lantern into the forest, promising crowds she would</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">show them wolves. She lit every tree, every stone, every secret burrow.</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">The audience grew restless. 'Where are the wolves?' they demanded. She</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">turned the lantern toward them. In the sudden light, each face wore sharp</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">teeth and pale, frightened eyes. The crowd fell silent. The script had</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">always known what the filmmaker had not: the wolves were already seated.</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: The truest films reveal the audience to themselves.</text>
-  <text class="meta" x="70" y="334">a cinema &amp; storytelling fable · told fresh on 02 Aug 2026 · today's voice: Sonnet 4.6 (balance)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A vain Peacock demanded the Crow photograph his every feather for the</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">forest's admiration. "Post them everywhere," he ordered. The Crow obliged,</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">and soon the whole jungle knew the Peacock's dazzling colors. But a Fox,</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">scrolling through the shimmering images, learned exactly where the Peacock</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">roosted each night. One evening she followed the trail of fame straight to</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">his tree. The Peacock, cornered, wished he had stayed unseen. His beauty</text>
+  <text style="animation-delay:1.88s" class="body ln" x="70" y="258">had drawn the very hunter who devoured it.</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="299">Moral: The louder you announce your treasures, the sooner thieves</text>
+  <text style="animation-delay:2.24s" class="moral ln" x="70" y="325">learn the way home.</text>
+  <text class="meta" x="70" y="387">a the Panchatantra tradition fable · told fresh on 03 Aug 2026 · today's voice: Opus 4.8 (depth)</text>
 </svg>
