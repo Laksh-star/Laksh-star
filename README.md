@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock's Reviews** — *The louder you announce your treasures, the sooner thieves learn the way home.* (03 Aug 2026)
+> **The Weaver and the Loom-Spirit** — *Automation repays the attention you withdraw with errors you can no longer trace.* (04 Aug 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
