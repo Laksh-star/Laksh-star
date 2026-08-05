@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom-Spirit** — *Automation repays the attention you withdraw with errors you can no longer trace.* (04 Aug 2026)
+> **The Captain and the Crossing** — *A decision deferred costs more than a decision disputed.* (05 Aug 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
