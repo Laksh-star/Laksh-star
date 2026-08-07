@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Lantern and the Wall** — *The story you fear to tell is the only one worth keeping.* (06 Aug 2026)
+> **The Crow and the Influencer Parrot** — *Borrowed brilliance dazzles until the moment originality is required.* (07 Aug 2026)
 >
 > <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
