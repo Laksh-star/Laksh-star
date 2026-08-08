@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Influencer Parrot** — *Borrowed brilliance dazzles until the moment originality is required.* (07 Aug 2026)
+> **The Weaver and the Loom** — *Tools amplify intention; intention without wisdom amplifies only emptiness.* (08 Aug 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ I am the swiftest of the three, costing least to set a thought free — who writes today? — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
