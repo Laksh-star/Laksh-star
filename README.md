@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Owl Who Called More Meetings** — *A leader who waits for perfect agreement leads only herself.* (09 Aug 2026)
+> **The Mirror the Filmmaker Refused to Polish** — *Audiences forget the polished lie but carry home the unpolished truth.* (10 Aug 2026)
 >
-> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
