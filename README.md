@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Mirror the Filmmaker Refused to Polish** — *Audiences forget the polished lie but carry home the unpolished truth.* (10 Aug 2026)
+> **The Crow and the Charging Cable** — *What looks useless to one creature powers another's whole world.* (11 Aug 2026)
 >
 > <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
