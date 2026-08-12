@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Crow and the Charging Cable">
+<svg viewBox="0 0 840 361" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Weaver and Her Loom">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,16 +15,15 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Crow and the Charging Cable</text>
+  <rect width="840" height="361" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Weaver and Her Loom</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A crow hoarded every shiny thing she found — bottle caps, foil, a lost</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">earring. One monsoon, she discovered a tangled charging cable and dragged</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">it proudly to her nest. A mongoose passing below called out, 'Fool! That</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">connects nothing here.' The crow plugged one end into a crack of</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">lightning. The nest lit up like a festival lantern. The mongoose stood in</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">darkness, phone dead.</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: What looks useless to one creature powers another's whole</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">world.</text>
-  <text class="meta" x="70" y="360">a the Panchatantra tradition fable · told fresh on 11 Aug 2026 · today's voice: Sonnet 4.6 (balance)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A weaver bought an automated loom, trusting it to weave cloth while she</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">rested. For weeks it worked flawlessly. Then one thread snagged. The loom,</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">unable to sense the problem, wove it deeper into the pattern. By the time</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">she checked, half the bolt was ruined. She returned to hand-weaving, but</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">now kept the loom nearby—for speed, not mastery.</text>
+  <text style="animation-delay:1.70s" class="moral ln" x="70" y="245">Moral: Automation amplifies both skill and blindness; wisdom lies</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="271">in watchful partnership.</text>
+  <text class="meta" x="70" y="333">a AI &amp; technology fable · told fresh on 12 Aug 2026 · today's voice: Haiku 4.5 (efficiency)</text>
 </svg>

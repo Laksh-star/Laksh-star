@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Charging Cable** — *What looks useless to one creature powers another's whole world.* (11 Aug 2026)
+> **The Weaver and Her Loom** — *Automation amplifies both skill and blindness; wisdom lies in watchful partnership.* (12 Aug 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
