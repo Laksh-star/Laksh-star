@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and Her Loom** — *Automation amplifies both skill and blindness; wisdom lies in watchful partnership.* (12 Aug 2026)
+> **The Captain and the Crossroads** — *Delayed decisions corrode teams faster than wrong ones ever could.* (13 Aug 2026)
 >
 > <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
