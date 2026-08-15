@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Filmmaker and the Crooked Mirror** — *Films reveal truth, but whose truth depends on where the viewer stands.* (14 Aug 2026)
+> **The Peacock's Feed** — *A crowd that watches you is worth less than a few who feed you.* (15 Aug 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
