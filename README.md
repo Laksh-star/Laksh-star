@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Captain and the Fog** — *Avoiding a difficult decision merely delegates it to circumstance.* (17 Aug 2026)
+> **The Lantern and the Wall** — *The truest frame holds what the storyteller forgot to control.* (18 Aug 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
