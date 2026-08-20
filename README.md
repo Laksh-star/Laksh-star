@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock's Followers** — *Applause follows the spectacle, but loyalty follows those who give something real.* (19 Aug 2026)
+> **The Weaver and the Loom** — *Machines repeat what we know; only we imagine what they cannot.* (20 Aug 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->

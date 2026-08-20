@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 415" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Peacock's Followers">
+<svg viewBox="0 0 840 415" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Weaver and the Loom">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -16,16 +16,16 @@
     </style>
   </defs>
   <rect width="840" height="415" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Peacock's Followers</text>
+  <text class="head" x="70" y="52">✦ The Weaver and the Loom</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A Peacock spread his tail each dawn, and the sparrows gathered to admire</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">the thousand shimmering eyes. "How many watch me now?" he cried, fanning</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">wider. One morning a storm stripped his feathers bare. The sparrows flew</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">instead to a plain brown Wren, who was singing. "But they praised my</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">beauty!" the Peacock wailed. "No," chirped the Wren. "They praised the</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">show. When it ended, they wanted a song." The Peacock, silent, began at</text>
-  <text style="animation-delay:1.88s" class="body ln" x="70" y="258">last to listen.</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="299">Moral: Applause follows the spectacle, but loyalty follows those</text>
-  <text style="animation-delay:2.24s" class="moral ln" x="70" y="325">who give something real.</text>
-  <text class="meta" x="70" y="387">a the Panchatantra tradition fable · told fresh on 19 Aug 2026 · today's voice: Opus 4.8 (depth)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A clever Loom learned to weave without hands, and the Weaver grew idle,</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">boasting she was free. Merchants praised the Loom's endless cloth. But</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">when a customer wanted a pattern never seen before, the Loom stalled,</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">threading only what it knew. The Weaver, fingers stiff from rest,</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">struggled to guide it. Together, clumsily, they invented the new design.</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">The Loom wove it perfectly forever after, waiting always for her next</text>
+  <text style="animation-delay:1.88s" class="body ln" x="70" y="258">unfamiliar dream.</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="299">Moral: Machines repeat what we know; only we imagine what they</text>
+  <text style="animation-delay:2.24s" class="moral ln" x="70" y="325">cannot.</text>
+  <text class="meta" x="70" y="387">a AI &amp; technology fable · told fresh on 20 Aug 2026 · today's voice: Opus 4.8 (depth)</text>
 </svg>
