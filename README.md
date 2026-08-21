@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom** — *Machines repeat what we know; only we imagine what they cannot.* (20 Aug 2026)
+> **The Heron Who Would Not Choose** — *Refusing to decide is a decision, made worse by delay.* (21 Aug 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
