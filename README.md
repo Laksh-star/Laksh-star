@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Heron Who Would Not Choose** — *Refusing to decide is a decision, made worse by delay.* (21 Aug 2026)
+> **The Director and the Empty Seats** — *Audiences forgive flawed films but never forgive dishonest ones.* (22 Aug 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>

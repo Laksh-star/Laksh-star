@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 389" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Heron Who Would Not Choose">
+<svg viewBox="0 0 840 415" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Director and the Empty Seats">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,16 +15,17 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="389" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Heron Who Would Not Choose</text>
+  <rect width="840" height="415" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Director and the Empty Seats</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A heron led a colony of frogs beside two ponds. One dried in summer, one</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">froze in winter, so the heron waited, calling councils, promising to</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">decide which pond to claim. The frogs debated through spring, argued</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">through summer, and by winter stood shivering on cracked mud between both.</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">When the heron finally spoke, no frogs remained to hear. A passing turtle</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">took the better pond, saying, 'The heron chose after all, only later than</text>
-  <text style="animation-delay:1.88s" class="body ln" x="70" y="258">everyone else.'</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="299">Moral: Refusing to decide is a decision, made worse by delay.</text>
-  <text class="meta" x="70" y="361">a leadership &amp; management fable · told fresh on 21 Aug 2026 · today's voice: Opus 4.8 (depth)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A proud Director shot a lavish film about a lion who never wept, certain</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">audiences wanted only strength. The theater sat empty. Puzzled, he watched</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">a Stagehand screen a scratched old reel of a lion limping home, ashamed.</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">Strangers packed the aisles, weeping and laughing as one. 'Your script</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">lied that lions never break,' said the Stagehand. 'Mine remembered they</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">do.' The Director tore up his pages and, for the first time, wrote</text>
+  <text style="animation-delay:1.88s" class="body ln" x="70" y="258">something true.</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="299">Moral: Audiences forgive flawed films but never forgive dishonest</text>
+  <text style="animation-delay:2.24s" class="moral ln" x="70" y="325">ones.</text>
+  <text class="meta" x="70" y="387">a cinema &amp; storytelling fable · told fresh on 22 Aug 2026 · today's voice: Opus 4.8 (depth)</text>
 </svg>
