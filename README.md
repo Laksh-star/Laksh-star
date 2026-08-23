@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Director and the Empty Seats** — *Audiences forgive flawed films but never forgive dishonest ones.* (22 Aug 2026)
+> **The Peacock's Reviews** — *Those who crave only applause never hear the warning in silence.* (23 Aug 2026)
 >
 > <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
