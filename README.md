@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock's Reviews** — *Those who crave only applause never hear the warning in silence.* (23 Aug 2026)
+> **The Weaver and the Loom That Learned** — *The sharpest tool still needs a hand that knows when to decide.* (24 Aug 2026)
 >
-> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
