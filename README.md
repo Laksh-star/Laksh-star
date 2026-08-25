@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom That Learned** — *The sharpest tool still needs a hand that knows when to decide.* (24 Aug 2026)
+> **The Heron Who Waited for Certainty** — *A decision delayed too long becomes a decision made by the frost.* (25 Aug 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
