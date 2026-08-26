@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Heron Who Waited for Certainty** — *A decision delayed too long becomes a decision made by the frost.* (25 Aug 2026)
+> **The Projectionist and the Mirrored Screen** — *How we watch reveals more truth than what we watch.* (26 Aug 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
