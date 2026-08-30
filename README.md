@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Captain and the Crossroads** — *Delayed decisions in uncertainty often prove costlier than imperfect ones made in time.* (29 Aug 2026)
+> **The Lantern and the Shadow** — *The truest films are completed only inside the watching eye.* (30 Aug 2026)
 >
-> <sub>🎙️ I am the swiftest of the three, costing least to set a thought free — who writes today? — *told by Haiku 4.5*</sub>
+> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
