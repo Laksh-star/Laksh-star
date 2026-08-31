@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Lantern and the Shadow** — *The truest films are completed only inside the watching eye.* (30 Aug 2026)
+> **The Crow and the Charging Cable** — *Possessing something valuable means little without knowing its true use.* (31 Aug 2026)
 >
-> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
