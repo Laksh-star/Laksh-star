@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Charging Cable** — *Possessing something valuable means little without knowing its true use.* (31 Aug 2026)
+> **The Weaver and the Loom** — *Mastery requires the human hand; automation perfects only what it already knows.* (01 Sep 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
