@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom** — *Mastery requires the human hand; automation perfects only what it already knows.* (01 Sep 2026)
+> **The Owl Who Called More Meetings** — *A wrong decision survived teaches more than a perfect silence never broken.* (02 Sep 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
