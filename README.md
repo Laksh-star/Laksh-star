@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Owl Who Called More Meetings** — *A wrong decision survived teaches more than a perfect silence never broken.* (02 Sep 2026)
+> **The Projector and the Mirror** — *Every film tells two truths: the one made, and the one received.* (03 Sep 2026)
 >
 > <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
