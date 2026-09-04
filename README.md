@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Projector and the Mirror** — *Every film tells two truths: the one made, and the one received.* (03 Sep 2026)
+> **The Influencer and the Tortoise** — *A real network is built slowly, person by person, not click by click.* (04 Sep 2026)
 >
 > <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
