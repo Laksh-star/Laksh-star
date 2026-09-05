@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Influencer and the Tortoise** — *A real network is built slowly, person by person, not click by click.* (04 Sep 2026)
+> **The Weaver and the Loom** — *Automation amplifies efficiency and error equally; wisdom requires human judgment.* (05 Sep 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ I am the swiftest of the three, costing least to set a thought free — who writes today? — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
