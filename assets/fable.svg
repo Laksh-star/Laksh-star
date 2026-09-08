@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 361" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Filmmaker and the Honest Mirror">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Influencer and the Owl">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,15 +15,16 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="361" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Filmmaker and the Honest Mirror</text>
+  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Influencer and the Owl</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A filmmaker wrote scripts to please audiences, filling them with flattery</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">and comfortable lies. Yet audiences grew restless, sensing emptiness. One</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">day, she wrote her truest script—a story about her own failure. Audiences</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">wept and returned again and again. The filmmaker realized her earlier</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">scripts were mirrors facing backward.</text>
-  <text style="animation-delay:1.70s" class="moral ln" x="70" y="245">Moral: The deepest truth moves hearts more than the prettiest</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="271">deception ever could.</text>
-  <text class="meta" x="70" y="333">a cinema &amp; storytelling fable · told fresh on 07 Sep 2026 · today's voice: Haiku 4.5 (efficiency)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A peacock amassed ten thousand followers by dancing at dawn, his jeweled</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">tail blazing across every pond and puddle. He mocked the owl perched</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">silently in the banyan. 'You have no audience.' The owl blinked. 'I have</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">no performance either.' That night, a storm erased every reflection the</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">peacock had admired. He searched for his image and found nothing. The owl,</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">unbothered, hunted by her own light.</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Fame borrowed from mirrors vanishes; skill borrowed from</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">within endures.</text>
+  <text class="meta" x="70" y="360">a the Panchatantra tradition fable · told fresh on 08 Sep 2026 · today's voice: Sonnet 4.6 (balance)</text>
 </svg>
