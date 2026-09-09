@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Influencer and the Owl** — *Fame borrowed from mirrors vanishes; skill borrowed from within endures.* (08 Sep 2026)
+> **The Weaver and the Loom-Sprite** — *A tool multiplies your skill, but cannot remember what you stop practicing.* (09 Sep 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
