@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Captain and the Crossing">
+<svg viewBox="0 0 840 362" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Mirror and the Lamp">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,16 +15,15 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Captain and the Crossing</text>
+  <rect width="840" height="362" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Mirror and the Lamp</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A ship's captain gathered her crew at a fork in the river. The left path</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">was swift but narrow; the right, safe but slow. "What do you counsel?" she</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">asked. Days passed in debate. Meanwhile, the current pulled them toward</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">the fork's edge. "Decide!" cried the helmsman. But the captain, fearing</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">blame, remained silent. The ship drifted. Both paths closed behind them.</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">They sank between.</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Postponed decisions drift toward ruin; indecision itself is</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">choice.</text>
-  <text class="meta" x="70" y="360">a leadership &amp; management fable · told fresh on 10 Sep 2026 · today's voice: Haiku 4.5 (efficiency)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A filmmaker carried a polished script everywhere, certain it contained</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">truth. Audiences wept, laughed, and nodded. One evening, a child asked,</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">'Who wrote our part?' The filmmaker checked every page. The audiences had</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">no lines — only reactions. Troubled, she rewrote the film placing</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">strangers at its center. The script grew messy, contradictory, alive. This</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">time, audiences sat very still, recognizing themselves in the chaos.</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: The truest films hold a mirror, not a lamp, to life.</text>
+  <text class="meta" x="70" y="334">a cinema &amp; storytelling fable · told fresh on 11 Sep 2026 · today's voice: Sonnet 4.6 (balance)</text>
 </svg>
