@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Mirror and the Lamp** — *The truest films hold a mirror, not a lamp, to life.* (11 Sep 2026)
+> **The Peacock's Followers** — *Admirers of your shine rarely stay for your storms.* (12 Sep 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
