@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Captain and the Tide** — *Indecision is a decision; delay chooses consequences you did not intend.* (14 Sep 2026)
+> **The Projectionist and the Mirror** — *Films reveal not what creators intend, but what watchers most need to see.* (15 Sep 2026)
 >
 > <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
