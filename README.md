@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Projectionist and the Mirror** — *Films reveal not what creators intend, but what watchers most need to see.* (15 Sep 2026)
+> **The Peacock's Followers** — *A crowd that cheers your feathers will not fight your hawks.* (16 Sep 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
