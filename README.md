@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom** — *Tools amplify human intention; they cannot replace human purpose.* (17 Sep 2026)
+> **The Captain and the Crossing** — *Deciding poorly beats deciding never; indecision costs most of all.* (18 Sep 2026)
 >
 > <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
