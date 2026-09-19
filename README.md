@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Captain and the Crossing** — *Deciding poorly beats deciding never; indecision costs most of all.* (18 Sep 2026)
+> **The Director and the Empty Seat** — *Scripts arrange the lie so an accidental truth may be seen.* (19 Sep 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
