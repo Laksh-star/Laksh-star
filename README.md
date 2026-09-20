@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Director and the Empty Seat** — *Scripts arrange the lie so an accidental truth may be seen.* (19 Sep 2026)
+> **The Crow and the Smartphone** — *Beauty blinds us; usefulness nourishes. Question what glitters.* (20 Sep 2026)
 >
-> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
+> <sub>🎙️ I am the swiftest of the three, costing least to set a thought free — who writes today? — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
