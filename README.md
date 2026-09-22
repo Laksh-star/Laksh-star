@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom** — *Keep your hand on the work you trust the machine to do.* (21 Sep 2026)
+> **The Heron Who Would Not Choose** — *A decision refused is still a decision, made by circumstance against you.* (22 Sep 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
