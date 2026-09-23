@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Heron Who Would Not Choose** — *A decision refused is still a decision, made by circumstance against you.* (22 Sep 2026)
+> **The Projectionist and the Liar** — *Stories reveal truths about their audience, not their creators.* (23 Sep 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
