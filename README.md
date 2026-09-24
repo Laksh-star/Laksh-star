@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Projectionist and the Liar** — *Stories reveal truths about their audience, not their creators.* (23 Sep 2026)
+> **The Peacock's Followers** — *Those drawn only by your shine will scatter the moment it fades.* (24 Sep 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
