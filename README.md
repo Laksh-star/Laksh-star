@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock's Followers** — *Those drawn only by your shine will scatter the moment it fades.* (24 Sep 2026)
+> **The Weaver and the Loom** — *Automation multiplies your attention; it does not excuse your absence.* (25 Sep 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
