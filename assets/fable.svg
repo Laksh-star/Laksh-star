@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 415" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Weaver and the Loom">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Captain and the Fog">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,17 +15,16 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="415" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Weaver and the Loom</text>
+  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Captain and the Fog</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A clever Loom learned to weave without hands, and the Weaver grew idle,</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">dozing while cloth piled high. One morning a knot appeared, then a snarl,</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">then chaos, for the Loom knew patterns but not why they mattered. The</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">Weaver woke to tangled ruin. Wearily she sat, unpicked each thread, and</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">taught the Loom the meaning behind the mending. Together they wove again,</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">the Loom now swift, the Weaver watchful, neither sleeping through the</text>
-  <text style="animation-delay:1.88s" class="body ln" x="70" y="258">work.</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="299">Moral: Automation multiplies your attention; it does not excuse</text>
-  <text style="animation-delay:2.24s" class="moral ln" x="70" y="325">your absence.</text>
-  <text class="meta" x="70" y="387">a AI &amp; technology fable · told fresh on 25 Sep 2026 · today's voice: Opus 4.8 (depth)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A ship's captain saw storm clouds gathering. Her crew debated three</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">routes. Rather than choose, she ordered them to wait for consensus. Days</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">passed. The fog thickened. A crew member finally demanded a decision. The</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">captain, embarrassed, picked the first route—the worst one. They were</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">shipwrecked. A passing vessel asked why they hadn't taken the northern</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">path, visible all along. The captain had simply never chosen it.</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: A delayed decision often proves costlier than an imperfect</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">one made promptly.</text>
+  <text class="meta" x="70" y="360">a leadership &amp; management fable · told fresh on 26 Sep 2026 · today's voice: Haiku 4.5 (efficiency)</text>
 </svg>
