@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Mirror and the Mask** — *The truest script is the one the audience secretly brings with them.* (27 Sep 2026)
+> **The Crow and the Smartphone** — *Tools that reflect ourselves can blind us to the world around.* (28 Sep 2026)
 >
-> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>

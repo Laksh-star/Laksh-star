@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Mirror and the Mask">
+<svg viewBox="0 0 840 361" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Crow and the Smartphone">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,16 +15,15 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Mirror and the Mask</text>
+  <rect width="840" height="361" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Crow and the Smartphone</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A filmmaker carved a beautiful mask and held it before audiences each</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">night. They wept, laughed, and felt less alone. One evening, a child</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">asked, 'What is behind it?' The filmmaker lowered the mask, revealing only</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">a mirror. The crowd fell silent, then slowly, one by one, they began to</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">weep again — this time recognizing their own faces in the story they</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">thought someone else had written.</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: The truest script is the one the audience secretly brings</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">with them.</text>
-  <text class="meta" x="70" y="360">a cinema &amp; storytelling fable · told fresh on 27 Sep 2026 · today's voice: Sonnet 4.6 (balance)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A crow found a shiny smartphone and admired its reflection endlessly,</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">tapping the glowing screen. A wise old sparrow warned him about wasting</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">daylight. The crow ignored her, transfixed. When night fell, the battery</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">died. In darkness, the sparrow guided the crow home using only starlight</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">and memory. The crow never touched a screen again.</text>
+  <text style="animation-delay:1.70s" class="moral ln" x="70" y="245">Moral: Tools that reflect ourselves can blind us to the world</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="271">around.</text>
+  <text class="meta" x="70" y="333">a the Panchatantra tradition fable · told fresh on 28 Sep 2026 · today's voice: Haiku 4.5 (efficiency)</text>
 </svg>
