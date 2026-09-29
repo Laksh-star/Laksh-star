@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Smartphone** — *Tools that reflect ourselves can blind us to the world around.* (28 Sep 2026)
+> **The Loom and the Weaver** — *The tool that runs alone still waits for the hand that knows where to cut.* (29 Sep 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
