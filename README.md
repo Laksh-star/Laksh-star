@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Loom and the Weaver** — *The tool that runs alone still waits for the hand that knows where to cut.* (29 Sep 2026)
+> **The Owl Who Called More Meetings** — *The leader who fears deciding teaches the team to decide alone.* (30 Sep 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
