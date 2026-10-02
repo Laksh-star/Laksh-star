@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Mirror Merchant** — *Audiences forgive a flattering lie but remember the film that knew them.* (01 Oct 2026)
+> **The Peacock's Followers** — *Those who gather for your shine will scatter in your shadow.* (02 Oct 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
