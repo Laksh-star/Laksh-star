@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and Her Tireless Loom** — *Automate the motion, but never automate away the memory.* (03 Oct 2026)
+> **The Tortoise Who Held the Map** — *Delay is not caution — it is a decision made by the river.* (04 Oct 2026)
 >
 > <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
