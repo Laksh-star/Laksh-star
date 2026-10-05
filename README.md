@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Tortoise Who Held the Map** — *Delay is not caution — it is a decision made by the river.* (04 Oct 2026)
+> **The Lantern and the Mirror** — *The story you tell is never the story others receive.* (05 Oct 2026)
 >
-> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
