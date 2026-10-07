@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Smartphone** — *Following crowds often blinds us to what truly nourishes.* (06 Oct 2026)
+> **The Oracle and the Cartographer** — *The one who walked the ground must still interpret what the machine draws.* (07 Oct 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
