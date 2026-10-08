@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Oracle and the Cartographer** — *The one who walked the ground must still interpret what the machine draws.* (07 Oct 2026)
+> **The Captain and the Crossroads** — *Avoided decisions breed chaos; poor choices breed resentment. Only decisions breed forward motion.* (08 Oct 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
