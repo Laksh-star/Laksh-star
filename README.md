@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Captain and the Crossroads** — *Avoided decisions breed chaos; poor choices breed resentment. Only decisions breed forward motion.* (08 Oct 2026)
+> **The Lantern and the Wall** — *The truest films reveal the filmmaker's wound, not their wisdom.* (09 Oct 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
