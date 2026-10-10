@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Lantern and the Wall">
+<svg viewBox="0 0 840 361" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Influencer and the Owl">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,16 +15,15 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Lantern and the Wall</text>
+  <rect width="840" height="361" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Influencer and the Owl</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A filmmaker carried a lantern into a dark hall, crying, 'I will show you</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">everything!' The audience sat, eager. But when she lit the lantern, she</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">turned it toward herself instead of the wall. The crowd saw only her</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">silhouette — enormous, trembling, uncertain. They wept anyway. Afterward,</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">the filmmaker asked why. An old man said, 'We recognized the shadow. It</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">was ours.'</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: The truest films reveal the filmmaker's wound, not their</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">wisdom.</text>
-  <text class="meta" x="70" y="360">a cinema &amp; storytelling fable · told fresh on 09 Oct 2026 · today's voice: Sonnet 4.6 (balance)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A peacock amassed ten thousand followers by dancing at dawn, his feathers</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">blazing across every pond's reflection. He mocked the owl, who posted</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">nothing, followed no one, and slept through trending storms. One moonless</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">night, a snake entered the village. The owl saw it. The peacock, blind in</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">darkness, only screamed. By morning, the village fed the owl first.</text>
+  <text style="animation-delay:1.70s" class="moral ln" x="70" y="245">Moral: Visibility means nothing when the real work happens in the</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="271">dark.</text>
+  <text class="meta" x="70" y="333">a the Panchatantra tradition fable · told fresh on 10 Oct 2026 · today's voice: Sonnet 4.6 (balance)</text>
 </svg>

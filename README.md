@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Lantern and the Wall** — *The truest films reveal the filmmaker's wound, not their wisdom.* (09 Oct 2026)
+> **The Influencer and the Owl** — *Visibility means nothing when the real work happens in the dark.* (10 Oct 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
