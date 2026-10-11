@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Influencer and the Owl** — *Visibility means nothing when the real work happens in the dark.* (10 Oct 2026)
+> **The Weaver and the Loom That Learned** — *Automation earns its keep; human judgment earns the contract.* (11 Oct 2026)
 >
 > <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
