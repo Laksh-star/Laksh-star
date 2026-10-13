@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Owl Who Studied the Storm** — *A delayed decision is still a decision — only someone else makes it.* (12 Oct 2026)
+> **The Projectionist and the Mirror** — *We see in stories what we're prepared to recognize in ourselves.* (13 Oct 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
