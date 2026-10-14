@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Projectionist and the Mirror** — *We see in stories what we're prepared to recognize in ourselves.* (13 Oct 2026)
+> **The Crow and the Charging Cable** — *Usefulness worn invisibly still feeds the hungry village.* (14 Oct 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
