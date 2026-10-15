@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Charging Cable** — *Usefulness worn invisibly still feeds the hungry village.* (14 Oct 2026)
+> **The Clockwork Shepherd and the Sleeping Wolf** — *Precision without judgment protects everything except what most needed saving.* (15 Oct 2026)
 >
 > <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
