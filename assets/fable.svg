@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Owl Who Studied the Storm">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Mirror Maker">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -16,15 +16,15 @@
     </style>
   </defs>
   <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Owl Who Studied the Storm</text>
+  <text class="head" x="70" y="52">✦ The Mirror Maker</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">An owl directed seven ravens through a forest. When lightning split the</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">great oak, she called a meeting. The ravens debated left paths and right</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">paths while rain turned the clearing to mud. A young raven, tired of</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">waiting, chose left and found shelter. The others followed, cursing the</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">storm. The owl, still tallying options, was found the next morning —</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">perfectly dry, perfectly alone, perfectly certain she had almost decided.</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: A leader who hoards decisions eventually loses the only</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">thing worth deciding for.</text>
-  <text class="meta" x="70" y="360">a leadership &amp; management fable · told fresh on 16 Oct 2026 · today's voice: Sonnet 4.6 (balance)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A proud Director filmed a kingdom grander than the real one, with brighter</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">crowns and braver kings. The Audience watched, then yawned and left. A</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">humble Scribe scratched a story about a tired cobbler who could not pay</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">his rent. The Director laughed, but the theater filled, and strangers wept</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">as if seeing themselves. 'Why do they cry at so small a thing?' he asked.</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">The Scribe replied, 'Because it is their size, not yours.'</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: A film reflects its viewers best when it stoops to their</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">true height.</text>
+  <text class="meta" x="70" y="360">a cinema &amp; storytelling fable · told fresh on 17 Oct 2026 · today's voice: Opus 4.8 (depth)</text>
 </svg>

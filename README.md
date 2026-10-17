@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Owl Who Studied the Storm** — *A leader who hoards decisions eventually loses the only thing worth deciding for.* (16 Oct 2026)
+> **The Mirror Maker** — *A film reflects its viewers best when it stoops to their true height.* (17 Oct 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
