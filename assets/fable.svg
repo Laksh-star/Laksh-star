@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Mirror Maker">
+<svg viewBox="0 0 840 361" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Crow and the Streaming Box">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,16 +15,15 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Mirror Maker</text>
+  <rect width="840" height="361" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Crow and the Streaming Box</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A proud Director filmed a kingdom grander than the real one, with brighter</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">crowns and braver kings. The Audience watched, then yawned and left. A</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">humble Scribe scratched a story about a tired cobbler who could not pay</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">his rent. The Director laughed, but the theater filled, and strangers wept</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">as if seeing themselves. 'Why do they cry at so small a thing?' he asked.</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">The Scribe replied, 'Because it is their size, not yours.'</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: A film reflects its viewers best when it stoops to their</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">true height.</text>
-  <text class="meta" x="70" y="360">a cinema &amp; storytelling fable · told fresh on 17 Oct 2026 · today's voice: Opus 4.8 (depth)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A crow watched a sparrow nest-hop between gardens, gathering twigs. 'Why</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">exhaust yourself?' asked the crow, perched on a power line. 'I stream</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">entertainment all day.' The sparrow built her nest in three days. When</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">storm winds toppled the crow's tree, it fell among dead branches. The</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">sparrow's nest, woven tight, swayed and held.</text>
+  <text style="animation-delay:1.70s" class="moral ln" x="70" y="245">Moral: Idle comfort crumbles; purposeful work roots you through</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="271">storms.</text>
+  <text class="meta" x="70" y="333">a the Panchatantra tradition fable · told fresh on 18 Oct 2026 · today's voice: Haiku 4.5 (efficiency)</text>
 </svg>

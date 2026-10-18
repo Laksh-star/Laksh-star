@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Mirror Maker** — *A film reflects its viewers best when it stoops to their true height.* (17 Oct 2026)
+> **The Crow and the Streaming Box** — *Idle comfort crumbles; purposeful work roots you through storms.* (18 Oct 2026)
 >
-> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
+> <sub>🎙️ I am the swiftest of the three, costing least to set a thought free — who writes today? — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
