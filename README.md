@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Streaming Box** — *Idle comfort crumbles; purposeful work roots you through storms.* (18 Oct 2026)
+> **The Cartographer and Her Tireless Apprentice** — *Automation draws fast; only the wakeful know when the river moves.* (19 Oct 2026)
 >
-> <sub>🎙️ I am the swiftest of the three, costing least to set a thought free — who writes today? — *told by Haiku 4.5*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
