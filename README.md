@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Cartographer and Her Tireless Apprentice** — *Automation draws fast; only the wakeful know when the river moves.* (19 Oct 2026)
+> **The Heron Who Would Not Choose** — *A decision delayed is still decided, only by someone crueler than you.* (20 Oct 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
