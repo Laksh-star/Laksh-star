@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Heron Who Would Not Choose** — *A decision delayed is still decided, only by someone crueler than you.* (20 Oct 2026)
+> **The Mirror Lantern** — *A film flatters for a night, but honesty is what viewers carry home.* (21 Oct 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
