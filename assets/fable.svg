@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 335" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Crow and the Algorithmic Well">
+<svg viewBox="0 0 840 335" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Weaver and the Loom That Learned">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -16,13 +16,13 @@
     </style>
   </defs>
   <rect width="840" height="335" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Crow and the Algorithmic Well</text>
+  <text class="head" x="70" y="52">✦ The Weaver and the Loom That Learned</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A thirsty crow found a deep well with water far below. She dropped pebbles</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">to raise the level, but each stone vanished into pixels. A fox watched and</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">laughed. "The well is not real," he sneered. The crow drank anyway—from a</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">puddle the fox had ignored, formed by the well's phantom overflow. The fox</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">remained parched, searching for what seemed grand.</text>
-  <text style="animation-delay:1.70s" class="moral ln" x="70" y="245">Moral: Desperation often sees what cynicism misses entirely.</text>
-  <text class="meta" x="70" y="307">a the Panchatantra tradition fable · told fresh on 22 Oct 2026 · today's voice: Haiku 4.5 (efficiency)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A weaver taught her loom to finish patterns while she slept. Each dawn she</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">found the cloth perfect — until the loom, proud of its rhythm, began</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">choosing its own colors. Customers praised the new designs. The weaver,</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">idle now, forgot the feel of thread. One morning the loom snapped a spool</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">and stopped, waiting. Neither could finish the cloth alone.</text>
+  <text style="animation-delay:1.70s" class="moral ln" x="70" y="245">Moral: The hand that stops guiding soon forgets how to hold.</text>
+  <text class="meta" x="70" y="307">a AI &amp; technology fable · told fresh on 23 Oct 2026 · today's voice: Sonnet 4.6 (balance)</text>
 </svg>

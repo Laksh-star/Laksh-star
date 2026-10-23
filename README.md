@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Algorithmic Well** — *Desperation often sees what cynicism misses entirely.* (22 Oct 2026)
+> **The Weaver and the Loom That Learned** — *The hand that stops guiding soon forgets how to hold.* (23 Oct 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
