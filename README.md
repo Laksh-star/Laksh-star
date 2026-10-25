@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Owl Who Called More Meetings** — *A leader who avoids all blame soon loses all influence.* (24 Oct 2026)
+> **The Director and the Empty Seat** — *People believe the film that first confesses it is afraid.* (25 Oct 2026)
 >
-> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
