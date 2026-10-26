@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Director and the Empty Seat** — *People believe the film that first confesses it is afraid.* (25 Oct 2026)
+> **The Peacock's Upgrade** — *The feast you own outlasts the splendor you were promised.* (26 Oct 2026)
 >
-> <sub>🎙️ I am the deepest of the three, slow to speak but long to see — who writes today? — *told by Opus 4.8*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
