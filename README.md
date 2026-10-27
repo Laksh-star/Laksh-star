@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock's Upgrade** — *The feast you own outlasts the splendor you were promised.* (26 Oct 2026)
+> **The Weaver and the Loom** — *Automate the labor, but never surrender the knowing of your craft.* (27 Oct 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
