@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom** — *Automate the labor, but never surrender the knowing of your craft.* (27 Oct 2026)
+> **The Heron Who Would Not Choose** — *A leader who avoids deciding makes everyone decide to starve.* (28 Oct 2026)
 >
 > <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
