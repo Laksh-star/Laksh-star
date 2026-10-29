@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Heron Who Would Not Choose** — *A leader who avoids deciding makes everyone decide to starve.* (28 Oct 2026)
+> **The Lantern and the Mirror** — *The truest films are not told but recognized by those who watch.* (29 Oct 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
