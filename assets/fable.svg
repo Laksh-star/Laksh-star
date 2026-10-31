@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 362" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Crow and the Smartphone">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Weaver and the Loom That Learned">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,15 +15,16 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="362" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Crow and the Smartphone</text>
+  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Weaver and the Loom That Learned</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A crow found a shining smartphone in the park and carried it to her nest,</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">believing it a precious jewel. She guarded it jealously from other birds.</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">One day, a notification chimed. The crow pecked the screen, and a child's</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">voice called "Mom?" The crow heard loneliness in that voice and realized</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">the object's true value lay not in possession, but in connection. She</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">dropped it where a searching child could find it.</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: What we hoard often belongs to someone else's need.</text>
-  <text class="meta" x="70" y="334">a the Panchatantra tradition fable · told fresh on 30 Oct 2026 · today's voice: Haiku 4.5 (efficiency)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A weaver taught her loom to count threads, then patterns, then seasons.</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">One morning the loom wove a cloth so perfect that merchants ignored the</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">weaver entirely. She smiled, unraveled the cloth, and sold the bare</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">threads for twice the price. The merchants returned, confused. 'Who made</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">this?' they asked. 'I did,' said the loom. 'No,' said the weaver. 'You</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">remembered. I decided.'</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Tools that learn still need hands that choose what learning</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">is for.</text>
+  <text class="meta" x="70" y="360">a AI &amp; technology fable · told fresh on 31 Oct 2026 · today's voice: Sonnet 4.6 (balance)</text>
 </svg>
