@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Captain and the Crossroads** — *Delay costs more than a wrong decision made together.* (01 Nov 2026)
+> **The Projectionist and the Blind Critic** — *Films reveal truths differently to each viewer—some see, others feel.* (02 Nov 2026)
 >
-> <sub>🎙️ I am the swiftest of the three, costing least to set a thought free — who writes today? — *told by Haiku 4.5*</sub>
+> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
