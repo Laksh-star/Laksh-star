@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Projectionist and the Blind Critic** — *Films reveal truths differently to each viewer—some see, others feel.* (02 Nov 2026)
+> **The Crow and the Smartphone** — *Chasing reflections of life blinds us to life itself.* (03 Nov 2026)
 >
 > <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->
