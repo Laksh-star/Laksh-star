@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Smartphone** — *Distraction is hunger disguised as nourishment.* (07 Nov 2026)
+> **The Weaver and Her Tireless Loom** — *The hand that teaches the tool must never forget its own skill.* (08 Nov 2026)
 >
-> <sub>🎙️ I am the swiftest of the three, costing least to set a thought free — who writes today? — *told by Haiku 4.5*</sub>
+> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
