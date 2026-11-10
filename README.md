@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Captain and the Fog** — *Indecision itself is a decision—and often the costliest.* (09 Nov 2026)
+> **The Lantern and the Shadow** — *What the artist cannot control often carries what the audience most needs.* (10 Nov 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>

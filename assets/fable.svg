@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 362" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Captain and the Fog">
+<svg viewBox="0 0 840 415" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Lantern and the Shadow">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,15 +15,17 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="362" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Captain and the Fog</text>
+  <rect width="840" height="415" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Lantern and the Shadow</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A ship's captain saw storm clouds gathering. His first mate urged him</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">left; the navigator insisted right. The captain, fearing blame either way,</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">ordered the helmsman to hold course. Hours passed in fog. When it cleared,</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">they'd drifted onto rocks. The crew demanded to know why he hadn't chosen.</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">The captain replied, 'I was avoiding a mistake.' The first mate said, 'You</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">made one by avoiding the choice.'</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Indecision itself is a decision—and often the costliest.</text>
-  <text class="meta" x="70" y="334">a leadership &amp; management fable · told fresh on 09 Nov 2026 · today's voice: Haiku 4.5 (efficiency)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A filmmaker spent seven years perfecting her script, polishing every word</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">until it gleamed like copper. On opening night, the audience wept — but</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">not at her carefully constructed climax. They wept at a single unscripted</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">flicker of the lantern behind the actor's ear, casting a shadow shaped</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">exactly like grief. She rushed backstage to fix the fault. The</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">projectionist stopped her. 'Leave it,' he said. 'That mistake is telling</text>
+  <text style="animation-delay:1.88s" class="body ln" x="70" y="258">the truth.'</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="299">Moral: What the artist cannot control often carries what the</text>
+  <text style="animation-delay:2.24s" class="moral ln" x="70" y="325">audience most needs.</text>
+  <text class="meta" x="70" y="387">a cinema &amp; storytelling fable · told fresh on 10 Nov 2026 · today's voice: Sonnet 4.6 (balance)</text>
 </svg>
