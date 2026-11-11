@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Lantern and the Shadow** — *What the artist cannot control often carries what the audience most needs.* (10 Nov 2026)
+> **The Influencer and the Owl** — *The quietest protector need not announce the protection.* (11 Nov 2026)
 >
 > <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
