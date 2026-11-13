@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom-Spirit** — *Delegate the work, but never surrender the skill that guides it.* (12 Nov 2026)
+> **The Owl Who Called More Meetings** — *Delay dressed as deliberation still leaves the forest thirsty.* (13 Nov 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
