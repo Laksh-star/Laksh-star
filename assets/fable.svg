@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Owl Who Called More Meetings">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Lantern and the Shadow">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -16,15 +16,15 @@
     </style>
   </defs>
   <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Owl Who Called More Meetings</text>
+  <text class="head" x="70" y="52">✦ The Lantern and the Shadow</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">An owl governed a forest of restless animals. Whenever a path flooded or a</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">nest collapsed, she summoned every creature to debate. The animals grew</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">skilled at discussing and slow at moving. One dry season, while the owl</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">scheduled her grandest council yet, a small mongoose simply dug a new</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">well. The animals drank. The owl called a meeting to study what had</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">happened.</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Delay dressed as deliberation still leaves the forest</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">thirsty.</text>
-  <text class="meta" x="70" y="360">a leadership &amp; management fable · told fresh on 13 Nov 2026 · today's voice: Sonnet 4.6 (balance)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A filmmaker spent seven years perfecting her script about loneliness. On</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">opening night, the audience wept — but not at her carefully written</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">scenes. They wept at a flickering lamp she had left burning by accident in</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">the corner of one shot. Furious, she confronted her cinematographer. He</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">only smiled. 'You wrote the loneliness,' he said. 'The lamp simply refused</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">to lie.'</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Truth in art escapes the hand that plants it, finding its</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">own root.</text>
+  <text class="meta" x="70" y="360">a cinema &amp; storytelling fable · told fresh on 14 Nov 2026 · today's voice: Sonnet 4.6 (balance)</text>
 </svg>

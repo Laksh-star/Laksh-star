@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Owl Who Called More Meetings** — *Delay dressed as deliberation still leaves the forest thirsty.* (13 Nov 2026)
+> **The Lantern and the Shadow** — *Truth in art escapes the hand that plants it, finding its own root.* (14 Nov 2026)
 >
-> <sub>🎙️ Balance suits today — Sonnet writes. — *told by Sonnet 4.6*</sub>
+> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
