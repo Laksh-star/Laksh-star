@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Lantern and the Shadow** — *Truth in art escapes the hand that plants it, finding its own root.* (14 Nov 2026)
+> **The Crow and the Influencer Parrot** — *An audience borrowed on imitation is lost to one honest sound.* (15 Nov 2026)
 >
 > <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
