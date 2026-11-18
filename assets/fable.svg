@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Owl Who Called More Meetings">
+<svg viewBox="0 0 840 415" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Mirror and the Mask">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,16 +15,17 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Owl Who Called More Meetings</text>
+  <rect width="840" height="415" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Mirror and the Mask</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">An owl governed a forest of restless animals. Each season brought hard</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">choices — which stream to dam, which path to clear. Rather than decide,</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">the owl convened councils. The beaver built nothing. The deer wandered in</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">circles. Then a drought came, and the owl called his finest meeting yet.</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">The animals arrived, debated beautifully, and thirst made the decision for</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">them all.</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: A leader who postpones every hard choice lets catastrophe</text>
-  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">choose instead.</text>
-  <text class="meta" x="70" y="360">a leadership &amp; management fable · told fresh on 17 Nov 2026 · today's voice: Sonnet 4.6 (balance)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A Director built a Mask of gold, so dazzling that Audiences wept at its</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">beauty. "My film tells the deepest truth," he boasted. One evening a shy</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">Projectionist screened the raw footage by mistake, before the Mask was</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">painted on. The crowd gasped, then wept harder than before. "Who wrote</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">this?" the Director demanded. "No one," said the Projectionist. "The</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">actors forgot their lines and simply remembered their own griefs." The</text>
+  <text style="animation-delay:1.88s" class="body ln" x="70" y="258">Director quietly buried the golden Mask.</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="299">Moral: The truest scripts are the ones performers stop pretending</text>
+  <text style="animation-delay:2.24s" class="moral ln" x="70" y="325">to read.</text>
+  <text class="meta" x="70" y="387">a cinema &amp; storytelling fable · told fresh on 18 Nov 2026 · today's voice: Opus 4.8 (depth)</text>
 </svg>
