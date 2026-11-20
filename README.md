@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock and the Crow** — *Talent matters more than looks; usefulness outlasts vanity.* (19 Nov 2026)
+> **The Weaver and the Loom** — *Automation mirrors its teachers; tend yourself before blaming your tools.* (20 Nov 2026)
 >
 > <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->

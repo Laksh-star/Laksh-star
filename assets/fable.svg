@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 362" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Peacock and the Crow">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Weaver and the Loom">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,15 +15,16 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="362" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Peacock and the Crow</text>
+  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Weaver and the Loom</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A peacock mocked a crow for his drab feathers. 'I am beauty itself,' the</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">peacock boasted. The crow flew to a city and learned human speech,</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">performing for crowds who tossed coins. The peacock remained in the</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">forest, magnificent but hungry. When the crow returned, the peacock asked</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">his secret. 'I discovered my true gift,' said the crow, 'lay not in my</text>
-  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">appearance, but in what I could do.'</text>
-  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Talent matters more than looks; usefulness outlasts vanity.</text>
-  <text class="meta" x="70" y="334">a the Panchatantra tradition fable · told fresh on 19 Nov 2026 · today's voice: Haiku 4.5 (efficiency)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A weaver bought an automated loom, trusting it to work while she slept.</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">Each morning, she found beautiful cloth—until one day, it wove itself into</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">knots. She sat down to unpick them and noticed something: the loom had</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">been copying her mistakes from years ago, learning perfectly what she'd</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">stopped noticing. She adjusted her own hands first, then the machine</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">followed.</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Automation mirrors its teachers; tend yourself before</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">blaming your tools.</text>
+  <text class="meta" x="70" y="360">a AI &amp; technology fable · told fresh on 20 Nov 2026 · today's voice: Haiku 4.5 (efficiency)</text>
 </svg>
