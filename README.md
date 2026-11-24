@@ -15,7 +15,7 @@
 </div>
 
 <!--FABLE:START-->
-> **The Crow and the Smartphone** — *Endless choices often blind us to what truly nourishes us.* (23 Nov 2026)
+> **The Weaver and the Loom** — *Tools amplify our power only if we remain worthy of wielding them.* (24 Nov 2026)
 >
 > <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
 <!--FABLE:END-->

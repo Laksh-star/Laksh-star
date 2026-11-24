@@ -1,4 +1,4 @@
-<svg viewBox="0 0 840 335" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Crow and the Smartphone">
+<svg viewBox="0 0 840 388" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Weaver and the Loom">
   <defs>
     <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1d1f33"/>
@@ -15,14 +15,16 @@
       @keyframes draw { to { stroke-dashoffset: 0; } }
     </style>
   </defs>
-  <rect width="840" height="335" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
-  <text class="head" x="70" y="52">✦ The Crow and the Smartphone</text>
+  <rect width="840" height="388" rx="14" fill="url(#parchment)" stroke="#2e3354" stroke-width="1.5"/>
+  <text class="head" x="70" y="52">✦ The Weaver and the Loom</text>
   <line class="rule" x1="70" y1="66" x2="770" y2="66"/>
-  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A crow found a glowing rectangle in the park. Mesmerized, it pecked and</text>
-  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">swiped for hours, ignoring the scattered breadcrumbs nearby. A wise</text>
-  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">sparrow warned: 'That thing shows you infinite corn but gives you none.'</text>
-  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">The crow laughed until its battery died. Hungry and alone, it finally</text>
-  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">noticed the real seeds at its feet.</text>
-  <text style="animation-delay:1.70s" class="moral ln" x="70" y="245">Moral: Endless choices often blind us to what truly nourishes us.</text>
-  <text class="meta" x="70" y="307">a the Panchatantra tradition fable · told fresh on 23 Nov 2026 · today's voice: Haiku 4.5 (efficiency)</text>
+  <text style="animation-delay:0.80s" class="body ln" x="70" y="96">A weaver bought an automated loom, believing it would free her from toil.</text>
+  <text style="animation-delay:0.98s" class="body ln" x="70" y="123">She fed it thread and patterns, watching it work flawlessly. But soon she</text>
+  <text style="animation-delay:1.16s" class="body ln" x="70" y="150">noticed: the loom wove only what she instructed, never better. One day, a</text>
+  <text style="animation-delay:1.34s" class="body ln" x="70" y="177">thread snapped. The loom halted, waiting. She realized she'd forgotten how</text>
+  <text style="animation-delay:1.52s" class="body ln" x="70" y="204">to fix her own hands. The machine had become her master by making her</text>
+  <text style="animation-delay:1.70s" class="body ln" x="70" y="231">unnecessary.</text>
+  <text style="animation-delay:1.88s" class="moral ln" x="70" y="272">Moral: Tools amplify our power only if we remain worthy of</text>
+  <text style="animation-delay:2.06s" class="moral ln" x="70" y="298">wielding them.</text>
+  <text class="meta" x="70" y="360">a AI &amp; technology fable · told fresh on 24 Nov 2026 · today's voice: Haiku 4.5 (efficiency)</text>
 </svg>
