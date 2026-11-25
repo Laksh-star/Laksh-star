@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Weaver and the Loom** — *Tools amplify our power only if we remain worthy of wielding them.* (24 Nov 2026)
+> **The Heron Who Waited for Clearer Water** — *Deciding late often costs more than deciding wrong.* (25 Nov 2026)
 >
-> <sub>🎙️ Today is a day for efficiency — and so, Haiku it is. — *told by Haiku 4.5*</sub>
+> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
