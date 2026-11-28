@@ -15,9 +15,9 @@
 </div>
 
 <!--FABLE:START-->
-> **The Peacock's Followers** — *An audience gathered by display scatters the moment the display fades.* (27 Nov 2026)
+> **The Clockwork Crow and the Tired Farmer** — *Automation plants what you design; only you can move the wall.* (28 Nov 2026)
 >
-> <sub>🎙️ A day for depth — Opus holds the pen. — *told by Opus 4.8*</sub>
+> <sub>🎙️ Neither fastest nor most grand, the middle measure steadies the hand — who writes today? — *told by Sonnet 4.6*</sub>
 <!--FABLE:END-->
 
 <sub>📜 [Browse the full archive of past fables →](fables/)</sub>
